@@ -1,3 +1,0 @@
-Hello, I'm Felicia Andrea Tandoko. As a passionate Data Science student, I love diving into the world of data to uncover insights that can make a difference. With a strong foundation in data preprocessing, analysis, visualization, and machine learning, I enjoy using tools like Python, R, SQL, and Tableau to transform complex datasets into compelling stories.
-
-Outside of my studies, I stay active through exercise and enjoy baking as a way to unwind and express my creativity. Reading is another passion of mine that helps me explore new ideas and perspectives. I’m eager to connect with professionals and organizations that share my enthusiasm for leveraging data to create impactful solutions.
